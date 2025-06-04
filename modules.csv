@@ -1,0 +1,21 @@
+ModuleID;ModuleName;ModuleDescription;Category;MajorClassIDs;Difficulty
+ml_concepts;Basic concepts of ML;"General description of basic ML concepts; covering fundamentals.";Machine Learning;TüKITZmed+TüKITZlife;beginner
+ml_supervised_basic;Supervised Learning;"Explores supervised learning; including classification and regression.";Machine Learning;TüKITZmed+TüKITZlife;beginner
+ml_supervised_adv;Supervised Learning Advanced;"Advanced supervised methods; e.g., SVMs and KNNs.";Machine Learning;TüKITZmed+TüKITZlife;intermediate
+ml_unsupervised_basic;Unsupervised Learning;"Covers clustering; dimensionality reduction; and Generative AI.";Machine Learning;TüKITZmed+TüKITZlife;beginner
+ml_unsupervised_adv;Unsupervised Learning Advanced;"In-depth on k-means; PCA; t-SNE; and clustering evaluation.";Machine Learning;TüKITZmed+TüKITZlife;intermediate
+ml_deep_basic;Deep learning;"Introduces perceptrons; activation functions; and multilayer NNs.";Machine Learning;TüKITZmed+TüKITZlife;beginner
+ml_deep_adv;Deep learning Advanced;"Details on NN learning; backprop; convolutions; and optimization.";Machine Learning;TüKITZmed+TüKITZlife;intermediate
+math_foundations;Mathematics - Foundations;"Fundamental math concepts for AI; including vectors; matrices; and sets.";Mathematics;TüKITZmed+TüKITZlife;beginner
+math_vector_calc_int;Vector calculus;"Intermediate vector calculus; differentiation; Jacobians; Hessians.";Mathematics;TüKITZmed+TüKITZlife;intermediate
+math_info_theory;Information theory;"Concepts of entropy and KL divergence.";Mathematics;TüKITZmed+TüKITZlife;intermediate
+math_stats_prob;Statistics & Prob. theory;"Discrete/continuous RVs; binomial distribution.";Mathematics;TüKITZmed+TüKITZlife;intermediate
+math_vector_calc_exp;Vector calculus Expert;"Expert level: Bayes' theorem and conditional probability.";Mathematics;TüKITZmed+TüKITZlife;expert
+math_linear_algebra;Linear algebra;"Eigenvalues; eigenvectors; trace; and determinant.";Mathematics;TüKITZmed+TüKITZlife;expert
+app_med_advances;ML Applications in medicine - Advances;"ML advances in medicine; focusing on radiology and other areas.";Applications;TüKITZmed;beginner
+app_med_uk Tübingen;ML Applications in medicine - UK Tübingen;"ML applications at UK Tübingen; especially in radiology.";Applications;TüKITZmed;intermediate
+app_ethics;Ethics, law & privacy;"Ethical; legal; and privacy considerations in medical AI.";Applications;TüKITZmed;beginner
+app_chatbots;Chatbots in medicine;"Design and implementation of chatbots for medical use cases.";Applications;TüKITZmed;beginner
+app_chatbots2;Chatbots in medicine1;"Design and implementation of chatbots for medical use cases.";Applications;TüKITZmed+TüKITZtest;beginner
+app_lifesci;ML in lifescience;"ML applications in bioinformatics and drug discovery; e.g. 'Omics' data.";Applications;TüKITZlife;beginner
+test_2;Test Module;"A module for testing purposes; not part of the main curriculum.";Mathematics;TüKITZtest;beginner
