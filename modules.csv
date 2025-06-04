@@ -19,3 +19,6 @@ app_chatbots;Chatbots in medicine;"Design and implementation of chatbots for med
 app_chatbots2;Chatbots in medicine1;"Design and implementation of chatbots for medical use cases.";Applications;TüKITZmed+TüKITZtest;beginner
 app_lifesci;ML in lifescience;"ML applications in bioinformatics and drug discovery; e.g. 'Omics' data.";Applications;TüKITZlife;beginner
 test_2;Test Module;"A module for testing purposes; not part of the main curriculum.";Mathematics;TüKITZtest;beginner
+test_3;Test Module 2;"Another test module for further testing purposes.";Mathematics;TüKITZtest2;beginner
+test_4;Test Module 3;"Yet another test module for testing purposes.";Mathematics;TüKITZtest3;beginner
+test_5;Test Module 4;"A final test module for testing purposes.";Mathematics;TüKITZtest3;beginner
