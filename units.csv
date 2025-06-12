@@ -56,5 +56,6 @@ u_chat_design;Design;app_chatbots;"Principles of designing effective and safe me
 u_chat_impl;Implementation;app_chatbots;"Technical aspects of implementing medical chatbots; NLP; dialog management."
 u_bioinfo;Bioinformatics;app_lifesci;"ML in Bioinformatics; analyzing biological data; genomics; proteomics."
 u_drugdisc;Drug Discovery;app_lifesci;"Using ML to accelerate Drug Discovery; predicting molecular properties."
-u_test_2;Test Unit 2;test_2;"A test unit for testing purposes; not part of the main curriculum."
-u_test_3;Test Unit 3;test_2;"Another test unit for testing purposes; not part of the main curriculum."
+u_omics;Omics Data;app_lifesci;"Handling and analyzing 'Omics' data; genomics; proteomics; metabolomics."
+u_med_img;Medical Imaging;app_radiation;"ML applications in Medical Imaging; image analysis; diagnostics."
+u_rad_therapy;Radiation Therapy;app_radiation;"ML applications in Radiation Therapy; treatment planning; dose optimization."
