@@ -9,7 +9,7 @@ ml_deep_adv;Deep learning Advanced;"Details on NN learning; backprop; convolutio
 math_foundations;Mathematics - Foundations;"Fundamental math concepts for AI; including vectors; matrices; and sets.";Mathematics;TüKITZmed+TüKITZlife+TüKITZzahn+TüKITZradiation;basic
 math_vector_calc_int;Vector calculus;"advanced vector calculus; differentiation; Jacobians; Hessians.";Mathematics;TüKITZmed+TüKITZlife+TüKITZradiation;advanced
 math_info_theory;Information theory;"Concepts of entropy and KL divergence.";Mathematics;TüKITZmed+TüKITZlife+TüKITZradiation;advanced
-math_stats_prob;Statistics & Prob. theory;"Discrete/continuous RVs; binomial distribution.";Mathematics;TüKITZmed+TüKITZlifeTüKITZradiation;advanced
+math_stats_prob;Statistics & Prob. theory;"Discrete/continuous RVs; binomial distribution.";Mathematics;TüKITZmed+TüKITZlife+TüKITZradiation;advanced
 math_vector_calc_exp;Vector calculus Expert;"Expert level: Bayes' theorem and conditional probability.";Mathematics;TüKITZmed+TüKITZlife;expert
 math_linear_algebra;Linear algebra;"Eigenvalues; eigenvectors; trace; and determinant.";Mathematics;TüKITZmed+TüKITZlife;expert
 app_med_advances;ML Applications in medicine - Advances;"ML advances in medicine; focusing on radiology and other areas.";Applications;TüKITZmed;basic
