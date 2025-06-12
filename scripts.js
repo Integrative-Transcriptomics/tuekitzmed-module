@@ -161,7 +161,7 @@ function renderCourseTiles(modulesData, classesData) {
         for (let i = 0; i < 3; i++) {
             const bar = document.createElement('div');
             bar.classList.add('bar');
-            // CSS handles filling based on .beginner, .intermediate, .expert class on tile
+            // CSS handles filling based on .basic, .advanced, .expert class on tile
             skillLevelDiv.appendChild(bar);
         }
         tile.appendChild(skillLevelDiv);

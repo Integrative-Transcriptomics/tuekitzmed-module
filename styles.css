@@ -207,12 +207,12 @@ body {
 }
 
 /* Different filling for skill levels */
-.course-tile.beginner .bar:nth-child(1) {
+.course-tile.basic .bar:nth-child(1) {
     background-color: #888;
 }
 
-.course-tile.intermediate .bar:nth-child(1),
-.course-tile.intermediate .bar:nth-child(2) {
+.course-tile.advanced .bar:nth-child(1),
+.course-tile.advanced .bar:nth-child(2) {
     background-color: #888;
 }
 
